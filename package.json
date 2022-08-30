@@ -1,0 +1,22 @@
+{
+  "name": "jest-unit-test",
+  "version": "1.0.0",
+  "description": "Jest tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satish2010/jest-unit-test.git"
+  },
+  "author": "Satish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satish2010/jest-unit-test/issues"
+  },
+  "homepage": "https://github.com/satish2010/jest-unit-test#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
